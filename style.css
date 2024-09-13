@@ -1,0 +1,38 @@
+nav ul li {
+    display:inline;
+    margin-right:10px;
+}
+body{
+    background-color: #EEEDEB;
+}
+
+
+table{
+    background-color:#2F3645;
+}
+
+nav ul {
+    border-style: groove;
+    border-color:#2F3645;
+    border-radius:50px;
+    background-color:#939185;
+    padding:10px;
+}
+article {
+    background-color:#FFEEA9;
+    border-color:  #AF47D2;
+    border-style: groove;
+}
+section {
+    background-color: #FFBF78;
+    border-style:dotted;
+    border-color: #AF47D2;
+
+}
+ .sectionheadline {
+    margin:15px;
+ }
+
+
+
+ 
